@@ -1,4 +1,4 @@
-<img src="assets/logo.webp" alt="Nepsis logo" width="96" align="right">
+<img src="assets/logo.webp" alt="Nepsis logo" width="72" align="right">
 
 # Nepsis
 
@@ -6,7 +6,9 @@
 
 [Visit Nepsis](https://nepsis.site) · [View Dylan's portfolio](https://dylanfox.work)
 
-![Nepsis product interface](assets/preview.png)
+<p><img src="assets/preview.png" alt="Nepsis website preview with a Christian reflection card beside the reading companion introduction" width="860"></p>
+
+<table><tr><td><img src="assets/logo.webp" alt="" width="34"></td><td><strong>Nepsis</strong></td></tr></table>
 
 ## The product
 
